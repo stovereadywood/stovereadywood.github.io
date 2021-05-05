@@ -35,4 +35,3 @@ Wales, and Northern Ireland.
 This [colour PNG file](/stovereadywood-1000x1000.png) is suitable for including on websites, printed adverts,
 packaging labels, etc. 
 
-![SRW Logo](/stovereadywood-200x200.png)
