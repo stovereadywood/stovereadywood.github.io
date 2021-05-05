@@ -5,8 +5,9 @@ to promote responsible wood burning. This material is copyrighted.
 However, if you ensure that you supply firewood which has been dried to 20%
 moisture content or less, you are welcome to use the Stove Ready Wood logo,
 the information leaflet for buyers, and the term "Stove Ready Wood" in your
-advertising and labelling. You do not need further permission from us to
-do that, and we will not charge you for this now or in the future.
+advertising and labelling of that firewood. You do not need further permission
+from us to do that, and we will not charge you for this now or in the future, 
+or withdraw your license to use the images and PDF files.
 
 Using our material to promote the supply of wet wood with a moisture content
 of greater than 20% may lead to prosecution by your local council's Trading Standards
