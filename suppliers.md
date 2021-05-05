@@ -26,7 +26,7 @@ the PDF leaflet. The first box on the leaflet gives advice about the
 seasoned, 20% or drier firewood that you are providing, as a Stove Ready Wood
 supplier. 
 
-You may find the leaflet useful even when you are not legeally required to 
+You may find the leaflet useful even when you are not legally required to 
 provide the advice, and similar regulations are being discussed in Scotland, 
 Wales, and Northern Ireland.
 
