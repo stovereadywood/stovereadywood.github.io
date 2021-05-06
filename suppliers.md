@@ -38,6 +38,9 @@ packaging labels, etc.
 
 ## Questions and Answers
 
+Some questions we've been asked and further explanation of the scheme and 
+its motivations.
+
 * **How can I use the Stove Ready Wood logo?**
   
   If you ensure that you supply firewood which has been dried to 20% 
@@ -51,7 +54,10 @@ packaging labels, etc.
 
   Stove Ready Wood is a voluntary self-certification scheme, but by using it
   when selling firewood you are making a promise to your customers that
-  your firewood is of 20% moisture or less.
+  your firewood is of 20% moisture or less. Customers are increasingly 
+  asking for reassurance that firewood will minimise pollution and is
+  suitable for their wood stove. The more people use Stove Ready Wood, the 
+  greater recognition the scheme will build up.
 
 * **What penalty is there for suppliers misusing the Stove Ready logo?**
 
@@ -74,7 +80,9 @@ packaging labels, etc.
   Woodsure/HETAS. As wood is a natural, variable product, it is pointless to
   test the dryness of a few logs each year in a lab. It is not like testing 
   one of a series of identical manufactured products coming off a production
-  line. 
+  line. Even in the new firewood regulations for England, enforcement is
+  by local Trading Standards rather than by Woodsure, who only have the 
+  power to exclude suppliers from their scheme.
 
 * **What is your position on firewood regulation?**
 
