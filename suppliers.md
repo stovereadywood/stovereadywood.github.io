@@ -92,7 +92,7 @@ its motivations.
   lobbyied for in England is unnecessary and will hamper the use of 
   carbon-neutral woodfuel. It will have particularly severe impact on the 
   management of small woodlands and the use of wood arising as a byproduct of
-  farm management and arbicultural work. 
+  farm management and arboricultural work. 
 
 * **Who is behind Stove Ready Wood?**
 
