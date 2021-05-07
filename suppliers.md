@@ -68,6 +68,13 @@ its motivations.
   [Consumer Protection from Unfair Trading Regulations 2008](https://www.legislation.gov.uk/uksi/2008/1277/contents)
   and may be prosecuted by your local Trading Standards office. 
 
+* **Why don't you restrict the scheme to sustainable suppliers?**
+
+  This isn't something that can be effectively dealt with by
+  self-certification. Instead, we leave that to schemes like
+  [Grown in Britain](https://www.growninbritain.org), based on criteria like 
+  the presence of a UK Forestry Standard compliant management plan. 
+
 * **What is the relation between Stove Ready Wood and Woodsure's Ready to Burn scheme?**
 
   They are separate schemes with different purposes. Stove Ready Wood provides
