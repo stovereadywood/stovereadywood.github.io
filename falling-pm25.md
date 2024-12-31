@@ -109,5 +109,5 @@ woodstoves is not limited by national PM2.5 targets.
 So we have a lot of elbow room. 
 **Let's imagine the number of homes using woodfuel
 indoors *quadruples* in parallel to fully transitioning to Clearskies 5 
-woodstoves. That would result in PM2.5 emissions from indoor wood burning 
-*falling* to only 18% of the current level.**
+woodstoves. That would result in total UK PM2.5 emissions from indoor wood 
+burning *falling* to only 18% of the current level.**
