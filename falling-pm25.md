@@ -20,8 +20,6 @@ in 2020, way ahead of the deadline of 2029.
 
 ![Emissions 1970 to 2022](particulate_matter_annual_emissions.jpg)
 
-![UK annual emissions of PM2.5 by emission source: 1990, 2005, 2021 and 2022](pm2_5_key_emission_sources.jpg)
-
 If we just look at domestic emissions of PM2.5, we can see the same pattern.
 Domestic emissions include garden bonfires, outdoor barbecues, and things
 like chimineas. But the major change has been due to people moving away from
