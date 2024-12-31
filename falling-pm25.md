@@ -53,16 +53,16 @@ domestic burning of woodfuel.
 Where do things stand now in the mid 2020s? In the smoke controlled zones in
 most urban areas, wood can only be burned in DEFRA exempt woodstoves which
 have been independently assessed. This rules out open fires and older
-stoves. In England, only properly seasoned firewood can be sold in
-quantities of less than two cubic metres. 
+stoves. In England, firewood deliveries or bags sold in
+quantities of less than two cubic metres must be properly seasoned. 
 Only stoves meeting the tighter Ecodesign regulations can be
-instaled and it's a measure of the industry's focus on efficiency and
+installed and it's a measure of the industry's focus on efficiency and
 cutting emissions that the regulations mandate less than 3g/hr of PM2.5 but 
 [on average Ecodesign stoves have been measured to emit only 0.72g/hr](https://stoveindustryassociation.org/sia-responds-to-wood-burning-stove-and-hgv-emission-comparison/).
 
 ![Clearskies 5](clearskies-5.png)
 
-Since they are easily surpassing the regualations, the industry has created
+Since they are easily surpassing the regulations, the industry has created
 the voluntary Clearskies scheme. The level 5 Clearskies stoves on sale have
 to emit only 0.55g/hr of PM2.5. 
 
