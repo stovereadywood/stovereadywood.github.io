@@ -52,17 +52,17 @@ from domestic wood burning gradually falls despite continued strong sales
 of new woodstoves. By 2022 we were back down to 14,000 tonnes of PM2.5 from
 domestic burning of woodfuel.
 
-![UK annual emissions of PM2.5 by emission source: 1990, 2005, 2021 and 2022](pm2_5_key_emission_sources.jpg)
-
 Where do things stand now in the mid 2020s? In the smoke controlled zones in
 most urban areas, wood can only be burned in DEFRA exempt woodstoves which
 have been independently assessed. This rules out open fires and older
-stoves. In England and Wales, only properly seasoned firewood can be sold in
+stoves. In England, only properly seasoned firewood can be sold in
 quantities of less than two cubic metres. 
 Only stoves meeting the tighter Ecodesign regulations can be
 instaled and it's a measure of the industry's focus on efficiency and
 cutting emissions that the regulations mandate less than 3g/hr of PM2.5 but 
 [on average Ecodesign stoves have been measured to emit only 0.72g/hr](https://stoveindustryassociation.org/sia-responds-to-wood-burning-stove-and-hgv-emission-comparison/).
+
+![Clearskies 5](clearskies-5.png)
 
 Since they are easily surpassing the regualations, the industry has created
 the voluntary Clearskies scheme. The level 5 Clearskies stoves on sale have
@@ -87,8 +87,9 @@ and so the number doing any indoor burning will be higher than this.
 There are 14,000 tonnes of PM2.5 from domestic wood burning each year, and 
 if we assume indoor and outdoor sources have roughly the same PM2.5/hour
 rates, then about 8,120 tonnes (58%) will be from indoor burning. Outdoor
-burning involves some quite inefficient open fires, but also dry charcoal
-which is very clean once it gets going. So swings and roundabouts.
+burning does involve some quite inefficient open fires with higher PM2.5
+rates, but also dry charcoal which is very clean once it gets going. So our
+assumption has swings and roundabouts.
 
 How many stoves does that correspond to?
 As people gradually upgrade and replace old stoves and open fires with
@@ -97,9 +98,10 @@ woodstoves like the Clearskies 5 certified models, what happens?
 Well if we divide 8,120 tonnes of PM2.5 by 0.55g/hr we get 14.8 billion
 hours. Billion. So that's 22 times more than the 657 million hours we 
 currently have indoors. In other
-words, we could increase the number of households with woodstoves from about
-a million to above 22 million, without any increase in PM2.5 emissions just
-by people upgrading and replacing with Clearskies 5 woodstoves!
+words, we could increase the number of households with indoor heating from 
+firewood from about a million to above 22 million, without any increase in 
+PM2.5 emissions just by people upgrading and replacing with Clearskies 5 
+woodstoves!
 
 Now, there's no way we could supply enough British firewood to cover that,
 and it would involve sucking in imported firewood some of which isn't
