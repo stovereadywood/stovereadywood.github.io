@@ -31,7 +31,7 @@ go up and down from year to year, but we can at least see the trend.
 In 2008 and 2009, there was as much PM2.5 from wood as other sources, but
 after that wood started to climb until 2018. Probably some of this is due to
 people switching from coal, but publicity around climate change encouraged
-the new installations of stoves burning wood. As our Felling License 
+the new installation of stoves burning wood. As our Felling License 
 regulations impose strict restocking and replanting requirements, British 
 firewood is almost all sustainable and carbon neutral.
 
