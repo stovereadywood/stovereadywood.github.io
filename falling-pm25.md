@@ -1,6 +1,8 @@
+# Falling PM2.5 and the future of firewood
+
 There's a lot of talk recently about the future of firewood as a fuel source
 in people's home. Some pressure groups are calling for less wood burning,
-but here we explain how technological advnances by stove manufacturers allow
+but here we explain how technological advances by stove manufacturers allow
 for a large increase in firewood burning at the same time as huge decreases
 in pollution.
 
@@ -13,16 +15,20 @@ particles of human pollution and natural dusts like sea salt less than
 This graph shows how annual UK emissions from all sources 
 of PM2.5 have decreased by 88%
 between 1970 and 2022, and they have continued to fall. The PM2.5 reduction
-target of the National Emission Ceilings Regulations (2018) were already met
+target of the National Emission Ceilings Regulations (2018) was already met
 in 2020, way ahead of the deadline of 2029. 
 
 ![Emissions 1970 to 2022](particulate_matter_annual_emissions.jpg)
+
+![UK annual emissions of PM2.5 by emission source: 1990, 2005, 2021 and 2022](pm2_5_key_emission_sources.jpg)
 
 If we just look at domestic emissions of PM2.5, we can see the same pattern.
 Domestic emissions include garden bonfires, outdoor barbecues, and things
 like chimineas. But the major change has been due to people moving away from
 coal fires. It's not clear how big the errors are in these estimates as they
 go up and down from year to year, but we can at least see the trend. 
+
+![Domestic combustion, 1990 to 2022](domestic-pm25-1990-2022.png)
 
 In 2008 and 2009, there was as much PM2.5 from wood as other sources, but
 after that wood started to climb until 2018. Probably some of this is due to
@@ -100,7 +106,8 @@ and it would involve sucking in imported firewood some of which isn't
 sustaintable or carbon neutral. However, the lesson is that growth in
 woodstoves is not limited by national PM2.5 targets. 
 
-So we have a lot of elbow room. Let's say the number of homes using woodfuel
+So we have a lot of elbow room. 
+**Let's imagine the number of homes using woodfuel
 indoors *quadruples* in parallel to fully transitioning to Clearskies 5 
 woodstoves. That would result in PM2.5 emissions from indoor wood burning 
-*falling* to only 18% of the current level. 
+*falling* to only 18% of the current level.**
